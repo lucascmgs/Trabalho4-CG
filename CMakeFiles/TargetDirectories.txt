@@ -1,0 +1,3 @@
+/home/cordeiro/Documents/Projects/Trabalho4-CG/CMakeFiles/rebuild_cache.dir
+/home/cordeiro/Documents/Projects/Trabalho4-CG/CMakeFiles/Trabalho4.dir
+/home/cordeiro/Documents/Projects/Trabalho4-CG/CMakeFiles/edit_cache.dir
